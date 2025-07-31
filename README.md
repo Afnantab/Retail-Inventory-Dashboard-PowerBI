@@ -1,5 +1,3 @@
-# Retail-Inventory-Dashboard-PowerBI
-
 # Retail Inventory and Sales Performance Dashboard (Power BI)
 
 ## 📌 Project Overview
