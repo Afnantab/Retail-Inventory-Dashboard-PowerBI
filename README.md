@@ -1,4 +1,4 @@
-# Retail Inventory and Sales Performance Dashboard (Power BI)
+# Retail Inventory and Sales Performance Dashboard (Advance Excel,Power BI)
 
 ## 📌 Project Overview
 This project focuses on building a **Power BI dashboard** to analyze inventory and sales data across multiple product categories, stores, and suppliers. The goal was to improve visibility and support data-driven decisions using interactive data visualizations.
