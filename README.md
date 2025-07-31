@@ -26,17 +26,17 @@ This project focuses on building a **Power BI dashboard** to analyze inventory a
 - Enabled stakeholders to make smarter decisions with consolidated data
 
 ## 📸 Dashboard Preview
-![Retail Dashboard Screenshot](Retail%20Store%20Dashboar.png)
+![Retail Dashboard Screenshot](C:\Users\Faisal Ahmed\Downloads\Retail Store Dashboard.png)
 
 ## 📂 Files Included
 - `Inventory_Data Project Done.xlsx`: Cleaned inventory dataset
 - `Retail Store Dashboard.png`: Dashboard image
 - `README.md`: Project documentation
 
-## 📬 Contact 9049112475
+## 📬 Contact:9049112475
 **Mohammed Afnan Ahmed**  
 Data Analyst | MCA Graduate  
 📧 [mdafnanahmed5984@gmail.com]  
 📍 Pune, India  
-📎 [LinkedIn Profile] |
+📎 [www.linkedin.com/in/mohammedafnanahmed] |
 
