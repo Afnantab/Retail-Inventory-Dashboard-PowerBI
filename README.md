@@ -26,7 +26,7 @@ This project focuses on building a **Power BI dashboard** to analyze inventory a
 - Enabled stakeholders to make smarter decisions with consolidated data
 
 ## 📸 Dashboard Preview
-![Retail Dashboard Screenshot]()
+![Retail Dashboard Screenshot](Retail%20Store%20Dashboard.png)
 
 ## 📂 Files Included
 - `Inventory_Data Project Done.xlsx`: Cleaned inventory dataset
