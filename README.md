@@ -8,6 +8,16 @@ This project focuses on building a **Power BI dashboard** to analyze inventory a
 - **Power BI** – Dashboard development and visualization
 - **Power Query / DAX** – Data transformation and calculations
 
+## **📌 Questions Answered in the Analysis**
+
+- What is the **total sales value and total units sold** across all stores?  
+- Which **store locations** generated the highest sales value?  
+- What is the **distribution of sales value by category** (Furniture, Groceries, Toys, Electronics, Clothing)?  
+- Which **suppliers contributed the most** to total sales value?  
+- Which are the **Top 10 best-selling products**?  
+- How is the **sales value distributed geographically** across different locations?  
+- What is the **unit cost comparison by product category**?  
+
 ## 📊 Key Metrics
 - **Total Units Sold**: 49.78 Million  
 - **Total Sales Value**: ₹4,699.2 Million  
